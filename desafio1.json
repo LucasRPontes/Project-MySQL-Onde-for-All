@@ -4,7 +4,7 @@
   "coluna_plano": "NOME",
   "tabela_que_contem_plano": "PLANO",
   "coluna_historico_de_reproducoes": "CANCOES_ID",
-  "tabela_que_contem_historico_de_reproducoes": "HISTORICO DE REPRODUCOES",
+  "tabela_que_contem_historico_de_reproducoes": "HISTORICO_DE_REPRODUCOES",
   "coluna_seguindo_artistas": "USUARIO_ID",
   "tabela_que_contem_seguindo_artistas": "SEGUIDORES",
   "coluna_artista": "NOME",
