@@ -1,4 +1,3 @@
-use SpotifyClone;
 create view cancoes_premium as
 SELECT 
 C.NOME 'nome', COUNT(*) 'reproducoes'
