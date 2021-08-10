@@ -1,7 +1,7 @@
 CREATE VIEW historico_reproducao_usuarios AS
 SELECT 
-     u.NOME 'usuario',
-     m.NOME 'nome'
+u.NOME 'usuario',
+m.NOME 'nome'
 FROM
 HISTORICO_DE_REPRODUCOES h
 inner join
